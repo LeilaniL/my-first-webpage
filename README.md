@@ -1,4 +1,4 @@
-# My-Fist-Webpage
+# My-First-Webpage
 
 #### By Fausto Guillen and Leilani Leach
 
@@ -12,4 +12,4 @@ _Email leilanileach@yahoo.com_
 
 
 ## License
-_Copyright (c) 2018 **_Fauso Guillen, Leilani Leach_**
+_Copyright (c) 2018 **Fausto Guillen, Leilani Leach**_
